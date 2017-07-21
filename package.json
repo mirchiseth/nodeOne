@@ -3,7 +3,8 @@
 	"version": "0.0.1",
 	"author": "Pankaj",
 	"dependencies": {
-		"express": "4.13.3"
+        "express": "4.13.3",
+        "mongodb": "2.2.30"
 	},
 	"scripts": {
 		"start": "node app.js"
